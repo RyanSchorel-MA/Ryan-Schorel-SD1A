@@ -1,6 +1,6 @@
 # Ryan-Schorel-SD1A
 
-![Afbeelding Recept!](https://en.wikipedia.org/wiki/Lasagna#/media/File:Lasagne_-_stonesoup.jpg)
+![Afbeelding Recept!](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lasagne_-_stonesoup.jpg/1024px-Lasagne_-_stonesoup.jpg)
 
 ## Benodigheden
 
